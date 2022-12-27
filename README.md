@@ -3,7 +3,7 @@
 CIKM 2022 accpeted full paper
 
 
-This is the official implementation of *MORN: Molecular Property Prediction Based on Textual-Topological-Spatial Multi-View Learning.* In this work, we proposed a two-stage method for learning molecular representations to predict the molecular property from a multi-view perspective. In the first stage, textual-topological-spatial multi-views were proposed to learn the molecular representations, so as to capture both chemical system language and structure notation features simultaneously. In the second stage, an adaptive strategy was used to fuse molecular representations learned from multi-views to predict molecular properties.The proposed metalloenzyme inhibitors dataset is in `Dataset/iron`. If you find our work useful in your research, please cite:
+This is the official implementation of *MORN: Molecular Property Prediction Based on Textual-Topological-Spatial Multi-View Learning.* In this work, we proposed a two-stage method for learning molecular representations to predict the molecular property from a multi-view perspective. In the first stage, textual-topological-spatial multi-views were proposed to learn the molecular representations, so as to capture both chemical system language and structure notation features simultaneously. In the second stage, an adaptive strategy was used to fuse molecular representations learned from multi-views to predict molecular properties.The proposed metalloenzyme inhibitors dataset is in `Dataset/iron`. You can visit the [web page](https://dl.acm.org/doi/abs/10.1145/3511808.3557401) to read the full paper.  If you find our work useful in your research, please cite:
 
 ```
 @inproceedings{ma2022morn,
